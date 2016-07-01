@@ -6,13 +6,22 @@ var mock_map = JSON.parse(fs.readFileSync('./mock_map.json'));
 var path_map = convertMockMapPath2RegExp(mock_map);
 module.exports = function(req, res, next){
     var url = req.url;
-    var jsonPath = getJsonByPath(url,path_map);
-    if(jsonPath){
-        var result = JSON.parse(fs.readFileSync(jsonPath));
-        res.send(result);
-    }else{
-        next();
-    }
+	var method = req.method;
+	//var jsonPath = getJsonByPath(url,path_map);
+	console.log(url,method);
+	if(jsonPath){
+		if(method === "GET"){
+			var result = JSON.parse(fs.readFileSync(jsonPath));
+			console.log(url,method,result);
+			res.send(result);
+		}else{
+			console.log(url,method,req.body);
+			res.sendStatus(200);
+		}
+	}else{
+		next();
+	}
+    
 }
 
 function convertMockMapPath2RegExp(map){
