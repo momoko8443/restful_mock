@@ -7,7 +7,7 @@ var path_map = convertMockMapPath2RegExp(mock_map);
 module.exports = function(req, res, next){
     var url = req.url;
 	var method = req.method;
-	//var jsonPath = getJsonByPath(url,path_map);
+	var jsonPath = getJsonByPath(url,path_map);
 	console.log(url,method);
 	if(jsonPath){
 		if(method === "GET"){
