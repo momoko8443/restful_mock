@@ -1,5 +1,5 @@
 [
-	{"uuid":"u001","username":"mock_user_1","editable":true,"disabled":true},
-	{"uuid":"u002","username":"mock_user_2","editable":false,"disabled":false},
-	{"uuid":"u003","username":"mock_user_3","editable":true,"disabled":false}
+	{"uuid":"u001","username":"mock_user_1","editable":true,"disable":true},
+	{"uuid":"u002","username":"mock_user_2","editable":false,"disable":false},
+	{"uuid":"u003","username":"mock_user_3","editable":true,"disable":false}
 ]
