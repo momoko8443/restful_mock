@@ -2,5 +2,6 @@
 	"/organizations/*/user":"./response/accounts.json",
 	"/organizations/*/user/*":"./response/accounts.json",
 	"/user":"./response/user.json",
-    "/users/*/repos":"./response/repos.json"
+    "/users/*/repos":"./response/repos.json",
+	"/passwordpolicy":"./response/policy.properties.json"
 }

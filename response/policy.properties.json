@@ -1,0 +1,11 @@
+{
+    "maxLength" : 12,
+    "minLength" : 7,
+    "specChaNum" : 0,
+    "specChaList" : ["~","!","#","$","%","^","&","*"],
+    "numChaNum" : 0,
+    "uperChaNum" : 0,
+    "lowChaNum" : 0,
+    "containAccName" : false,
+    "historyNum" : 0
+}
