@@ -1,10 +1,10 @@
 {
-  "FW":true
-  "NAT" :true
-  "LB" :true
-  "PNFW":true
-  "BYOIP":true
-  "NC":true
-  "VSCAN":true
+  "FW":true,
+  "NAT" :true,
+  "LB" :true,
+  "PNFW":true,
+  "BYOIP":true,
+  "NC":true,
+  "VSCAN":true,
   "SM":true
 }
