@@ -4,5 +4,5 @@
 	"/user":"./response/user.json",
     "/users/*/repos":"./response/repos.json",
 	"/passwordpolicy":"./response/policy.properties.json",
-	"/network":"./response/network.json"
+	"/organizations/*/network":"./response/network.json"
 }
