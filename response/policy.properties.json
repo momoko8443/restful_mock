@@ -2,7 +2,7 @@
     "maxLength" : 12,
     "minLength" : 7,
     "specChaNum" : 1,
-    "specChaList" : ["~","!","#","$","%","^","&","*"],
+    "specChaList" : "~!#$%^&*",
     "numChaNum" : 1,
     "upperChaNum" : 1,
     "lowChaNum" : 1,
