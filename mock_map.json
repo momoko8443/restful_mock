@@ -3,6 +3,6 @@
 	"/organizations/*/user/*":"./response/accounts.json",
 	"/user":"./response/user.json",
     "/users/*/repos":"./response/repos.json",
-	"/passwordpolicy":"./response/policy.properties.json",
+	"/passwordpolicy/config":"./response/policy.properties.json",
 	"/organizations/*/netaccess":"./response/network.json"
 }
