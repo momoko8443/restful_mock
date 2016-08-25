@@ -4,5 +4,7 @@
 	"/user":"./response/user.json",
     "/users/*/repos":"./response/repos.json",
 	"/passwordpolicy/config":"./response/policy.properties.json",
-	"/organizations/*/netaccess":"./response/network.json"
+	"/organizations/*/netaccess":"./response/network.json",
+	"/organizations/*/compartment":"./response/compartment.json",
+	"/organizations/*/compartment/*/role":"./response/compartment.role.json"
 }

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "id01",
+        "name": "Human Resource",
+		"description": "Description of HR",
+        "disabled": false
+    },
+    {
+        "id": "id02",
+        "name": "Finance",
+		"description": "Description of Finance",
+        "disabled": false
+    },
+    {
+        "id": "id03",
+        "name": "Sales",
+		"description": "Description of Sales",
+        "disabled": false
+    },
+    {
+        "id": "id04",
+        "name": "Research & Development",
+		"description": "Description of R&D",
+        "disabled": false
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id":"id01",
+        "rolename":"TEST_ROLE_1",
+		"description":"Description of TEST_ROLE_1",
+        "disabled":false
+    },
+    {
+        "id":"id02",
+        "rolename":"TEST_ROLE_2",
+		"description":"Description of TEST_ROLE_2",
+        "disabled":false
+    },
+    {
+        "id":"id03",
+        "rolename":"TEST_ROLE_3",
+		"description":"Description of TEST_ROLE_3",
+        "disabled":false
+    },
+    {
+        "id":"id04",
+        "rolename":"TEST_ROLE_4",
+		"description":"Description of TEST_ROLE_4",
+        "disabled":false
+    },
+    {
+        "id":"id05",
+        "rolename":"TEST_ROLE_5",
+		"description":"Description of TEST_ROLE_5",
+        "disabled":false
+    }
+]
