@@ -3,24 +3,239 @@
         "id": "id01",
         "name": "Human Resource",
 		"description": "Description of HR",
-        "disabled": false
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
     },
     {
         "id": "id02",
         "name": "Finance",
 		"description": "Description of Finance",
-        "disabled": false
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
     },
     {
         "id": "id03",
         "name": "Sales",
 		"description": "Description of Sales",
-        "disabled": false
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
     },
     {
         "id": "id04",
         "name": "Research & Development",
 		"description": "Description of R&D",
-        "disabled": false
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+	{
+        "id": "id01",
+        "name": "Human Resource",
+		"description": "Description of HR",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+    {
+        "id": "id02",
+        "name": "Finance",
+		"description": "Description of Finance",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+    {
+        "id": "id03",
+        "name": "Sales",
+		"description": "Description of Sales",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+    {
+        "id": "id04",
+        "name": "Research & Development",
+		"description": "Description of R&D",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+	{
+        "id": "id01",
+        "name": "Human Resource",
+		"description": "Description of HR",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+    {
+        "id": "id02",
+        "name": "Finance",
+		"description": "Description of Finance",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+    {
+        "id": "id03",
+        "name": "Sales",
+		"description": "Description of Sales",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+    {
+        "id": "id04",
+        "name": "Research & Development",
+		"description": "Description of R&D",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+	{
+        "id": "id01",
+        "name": "Human Resource",
+		"description": "Description of HR",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+    {
+        "id": "id02",
+        "name": "Finance",
+		"description": "Description of Finance",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+    {
+        "id": "id03",
+        "name": "Sales",
+		"description": "Description of Sales",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+    {
+        "id": "id04",
+        "name": "Research & Development",
+		"description": "Description of R&D",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },{
+        "id": "id01",
+        "name": "Human Resource",
+		"description": "Description of HR",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+    {
+        "id": "id02",
+        "name": "Finance",
+		"description": "Description of Finance",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+    {
+        "id": "id03",
+        "name": "Sales",
+		"description": "Description of Sales",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
+    },
+    {
+        "id": "id04",
+        "name": "Research & Development",
+		"description": "Description of R&D",
+        "tenantId": "ff8080814812e22b01481300ab0d0001",
+		"isSecondary": false,
+		"isDefault": false,
+		"serviceAccount":{
+			"name":"username1",
+			"password":"pwd"
+		}
     }
 ]
