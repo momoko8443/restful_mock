@@ -5,8 +5,12 @@
     "/users/*/repos":"./response/repos.json",
 	"/passwordpolicy/config":"./response/policy.properties.json",
 	"/organizations/*/netaccess":"./response/network.json",
+	
 	"/organizations/*/compartment":"./response/compartment.json",
 	"/organizations/*/compartment/*/role":"./response/compartment.role.json",
+	
+	
+	
 	"/organizations/*/comprole":"./response/compartment.role.json",
-	"/organizations/*/comprole/*/compartment":"./response/compartment.role.json"
+	"/organizations/*/comprole/*/comp":"./response/role.compartment.json"
 }
