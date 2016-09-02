@@ -4,6 +4,7 @@
         "name": "Human Resource",
 		"description": "Description of HR",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter1",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -16,6 +17,7 @@
         "name": "Finance",
 		"description": "Description of Finance",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter2",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -28,6 +30,7 @@
         "name": "Sales",
 		"description": "Description of Sales",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter3",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -40,6 +43,7 @@
         "name": "Research & Development",
 		"description": "Description of R&D",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter4",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -52,6 +56,7 @@
         "name": "Human Resource",
 		"description": "Description of HR",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter5",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -64,6 +69,7 @@
         "name": "Finance",
 		"description": "Description of Finance",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter6",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -76,6 +82,7 @@
         "name": "Sales",
 		"description": "Description of Sales",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter7",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -88,6 +95,7 @@
         "name": "Research & Development",
 		"description": "Description of R&D",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter8",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -100,6 +108,7 @@
         "name": "Human Resource",
 		"description": "Description of HR",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter9",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -112,6 +121,7 @@
         "name": "Finance",
 		"description": "Description of Finance",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter10",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -124,6 +134,7 @@
         "name": "Sales",
 		"description": "Description of Sales",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter11",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -136,6 +147,7 @@
         "name": "Research & Development",
 		"description": "Description of R&D",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter12",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -148,6 +160,7 @@
         "name": "Human Resource",
 		"description": "Description of HR",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter13",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -160,6 +173,7 @@
         "name": "Finance",
 		"description": "Description of Finance",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter14",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -172,6 +186,7 @@
         "name": "Sales",
 		"description": "Description of Sales",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter15",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -184,6 +199,7 @@
         "name": "Research & Development",
 		"description": "Description of R&D",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter16",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -195,6 +211,7 @@
         "name": "Human Resource",
 		"description": "Description of HR",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter17",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -207,6 +224,7 @@
         "name": "Finance",
 		"description": "Description of Finance",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter18",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -219,6 +237,7 @@
         "name": "Sales",
 		"description": "Description of Sales",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter19",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
@@ -231,6 +250,7 @@
         "name": "Research & Development",
 		"description": "Description of R&D",
         "tenantId": "ff8080814812e22b01481300ab0d0001",
+        "dataCenter": "DataCenter20",
 		"isSecondary": false,
 		"isDefault": false,
 		"serviceAccount":{
