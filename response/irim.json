@@ -1,0 +1,7 @@
+{
+    "id": "10000000000000001",
+    "customerId": "customerId",
+    "loginName": "loginName",
+    "password": "password", 
+    "currencyCode": "CNY"
+}

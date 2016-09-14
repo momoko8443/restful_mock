@@ -10,5 +10,8 @@
 	"/organizations/*/comp/*/role":"./response/compartment.role.json",
 	
 	"/organizations/*/comprole":"./response/compartment.role.json",
-	"/organizations/*/comprole/*/comp":"./response/role.compartment.json"
+	"/organizations/*/comprole/*/comp":"./response/role.compartment.json",
+
+	"/organizations/*/jbilling":"./response/jbilling.json",
+	"/organizations/*/irim":"./response/irim.json"
 }
