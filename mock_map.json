@@ -13,5 +13,7 @@
 	"/organizations/*/comprole/*/comp":"./response/role.compartment.json",
 
 	"/organizations/*/jbilling":"./response/jbilling.json",
-	"/organizations/*/irim":"./response/irim.json"
+	"/organizations/*/irim":"./response/irim.json",
+
+	"/import/orgs":"./response/orgs.json"
 }

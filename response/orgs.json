@@ -1,0 +1,69 @@
+{
+  "name" : "organization123",
+  "displayName" : "organization123",
+  "description" : "description of organization123",
+  "iconUrl" : "http://some.icon.url",
+  "type" : "CONSUMER",
+  "supportTFA" : true,
+  "enableTFA" : true,
+  "vpcID" : "vpc223",
+  "keystoneID" : "keystone223",
+  "adminUsers" : [ {
+    "username" : "orgAdmin",
+    "password" : "password",
+    "editable" : true,
+    "disable" : false,
+    "displayName" : "orgAdmin"
+  } ],
+  "compartments" : [ {
+    "serviceAccount" : {
+      "name" : "service-acc",
+      "password" : "psw"
+    },
+    "name" : "compartment-123",
+    "description" : "description of compartment-123",
+    "tenantId" : "tenant-111",
+    "dataCenter" : "dc1",
+    "isDefault" : true,
+    "isSecondary" : false
+  }, {
+    "serviceAccount" : {
+      "name" : "service-acc",
+      "password" : "psw"
+    },
+    "name" : "compartment-456",
+    "description" : "description of compartment-456",
+    "tenantId" : "tenant-111",
+    "dataCenter" : "dc2",
+    "isDefault" : false,
+    "isSecondary" : false
+  } ],
+  "cRoles" : [ {
+    "name" : "CRole1",
+    "description" : "description of CRole1"
+  }, {
+    "name" : "NAT",
+    "description" : "description of NAT"
+  } ],
+  "role-comps" : [ {
+    "role" : "CRole1",
+    "comp" : "compartment-123"
+  }, {
+    "role" : "CRole1",
+    "comp" : "compartment-456"
+  }, {
+    "role" : "NAT",
+    "comp" : "compartment-456"
+  } ],
+  "jbilling" : {
+    "customerId" : "jbilling123",
+    "loginName" : "user-login",
+    "password" : "password112",
+    "currencyCode" : "USD"
+  },
+  "irim" : {
+    "customerId" : "irim123",
+    "loginName" : "user-login",
+    "password" : "password"
+  }
+}
