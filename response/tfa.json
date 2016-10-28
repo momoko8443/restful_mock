@@ -1,0 +1,15 @@
+
+{    
+    "tfa_server": {
+        "name": "Acme_LinOTP",        
+        "id": "a0d3475a3104ef7eabccc784903ee114",        
+        "type": "totp",        
+        "vendor": "linotp",        
+        "driver": "freeradius",        
+        "server": "15.45.23.34",        
+        "secondary_server": "15.45.23.35",        
+        "authport": 1812,        
+        "nas_identifier": "localhost",        
+        "attached": false    
+    }
+}

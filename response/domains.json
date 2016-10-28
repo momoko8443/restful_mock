@@ -1,0 +1,16 @@
+
+{"domain": 
+    {
+    	"description": "domain descripton", 
+	    "links": {
+	    	"self":"https://c4t12172.itcs.hpecorp.net:35358/v3/domains/c79152ac613c481ab65d0989da2da2e1"
+	    }, 
+	    "enabled": true,              
+	    "domain_type": "public", 
+	    "email_suffix": "sample.com", 
+	    "customer_id": "123", 
+	    "id": "c79152ac613c481ab65d0989da2da2e1", 
+	    "name": "sample domain"
+    }
+
+}

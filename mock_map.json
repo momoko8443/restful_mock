@@ -15,5 +15,10 @@
 	"/organizations/*/jbilling":"./response/jbilling.json",
 	"/organizations/*/irim":"./response/irim.json",
 
-	"/import/orgs":"./response/orgs.json"
+	"/import/orgs":"./response/orgs.json",
+    
+	"/domains/*": "./response/domains.json",
+	"/domains/*/config": "./response/ldap.json",
+	"/domains/*/tfaservers": "./response/tfa.json",
+	"/domains/*/tfaserver_attachments": "./response/tfa_attach.json"
 }
