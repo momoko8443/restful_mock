@@ -1,6 +1,6 @@
 
 {    
-    "tfa_server": {
+    "tfa_server": [{
         "name": "Acme_LinOTP",        
         "id": "a0d3475a3104ef7eabccc784903ee114",        
         "type": "totp",        
@@ -11,5 +11,5 @@
         "authport": 1812,        
         "nas_identifier": "localhost",        
         "attached": false    
-    }
+    }]
 }

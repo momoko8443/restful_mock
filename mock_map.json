@@ -17,8 +17,7 @@
 
 	"/import/orgs":"./response/orgs.json",
     
-	"/domains/*": "./response/domains.json",
-	"/domains/*/config/*": "./response/ldap.json",
-	"/domains/*/tfaservers/*": "./response/tfa.json",
-	"/domains/*/tfaserver_attachments/*": "./response/tfa_attach.json"
+	"/domains": "./response/domains.json",
+	"/domains/*/config": "./response/ldap.json",
+	"/domains/*/tfaservers": "./response/tfa.json"
 }
