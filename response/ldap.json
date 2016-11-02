@@ -1,4 +1,3 @@
-
 {
     "config": {
         "identity": {
@@ -19,13 +18,13 @@
             "user_tree_dn": "OU=Privileged,OU=HPE,OU=Accounts,OU=SDF,DC=corp,DC=aimia,DC=org",
             "user_id_attribute": "cn",
             "user_name_attribute": "mail",
-            "user_allow_create": false
+            "user_allow_create": false,
             "use_tls": false,
             "tls_cacertfile": "/opt/tokenidm/cacert.pem",
             "tls_req_cert": "never",
             "use_dumb_member": false,
             "dumb_member": "cn=dumb,dc=nonexistent",
-            "user_enabled_emulation": false,
+            "user_enabled_emulation": false
         }
     }
 }
