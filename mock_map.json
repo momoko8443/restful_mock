@@ -19,5 +19,6 @@
     
 	"/domains": "./response/domains.json",
 	"/domains/*/config": "./response/ldap.json",
+	"/domains/*/tfaserver_attachments": "./response/tfa_attach.json",
 	"/domains/*/tfaservers": "./response/tfa.json"
 }
