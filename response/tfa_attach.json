@@ -1,7 +1,7 @@
 
 {
-    "tfa_server_attachment": {
+    "tfa_server_attachment": [{
         "id": "b23ff74a4f0249a1bb9499415dc42c2c",
         "tfa_server_id": "a0d3475a3104ef7eabccc784903ee114"
-    }
+    }]
 }
