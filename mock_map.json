@@ -2,7 +2,7 @@
 	"/organizations/*/user":"./response/accounts.json",
 	"/organizations/*/user/*":"./response/accounts.json",
 	"/user":"./response/user.json",
-	"/internaluser/type":"./response/user.type.json",
+	"/internaluser/types":"./response/user.type.json",
     "/users/*/repos":"./response/repos.json",
 	"/passwordpolicy/config":"./response/policy.properties.json",
 	"/organizations/*/netaccess":"./response/network.json",
