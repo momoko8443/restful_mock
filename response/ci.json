@@ -1,0 +1,1277 @@
+[
+  {
+    "timestamp": 341,
+    "guid": "e855c0bb-e719-4cf7-87fa-da4f47280bb5",
+    "modified": 1484728058996,
+    "created": 1484549340549,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Block Storage for Virtual Machines"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade Block Storage made simple.\r\n\r\nWe provide up to 15 TiB of Block Storage options you can add to every of your Virtual Machines.\r\n\r\nYou can configure pay-per-use Virtual Disks (vDisks) with flexible size from 5 GiB to 1 TiB per Volume, dedicated to each Virtual Machine.\r\n\r\n\r\nPerformance Storage\r\n\r\nIntended for Applications requiring fast response time for less critical business revenue.\r\n\r\nTypical Applications: Virtualization, Business applications, such as SAP®, Oracle®.\r\n\r\nTechnical Specifications: RAID 50 block-level striping with distributed parity, up to 57K IOPS at 8K random IOs with 80/20 read/write ratio with less than or equal to 25 milliseconds response time."
+    },
+    "categories": [
+      "7e09432b-6bcc-416f-b015-ddb93d7e8f31"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 338,
+      "guid": "dc2e9dc4-be45-4ff5-aaba-679538491af6",
+      "modified": 1484728058965,
+      "created": 1484728058965,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 1585,
+      "fileChecksum": "56a1d902a07ac589a493059e1d66b210",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "virtualStorage"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "virtualStorage",
+    "showPrice": true
+  },
+  {
+    "timestamp": 339,
+    "guid": "137f75be-57c3-4de2-9c49-71dadd48f16f",
+    "modified": 1484728058967,
+    "created": 1484549073823,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Block Storage for Virtual Machines"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade Block Storage made simple.\r\n\r\nWe provide up to 15 TiB of Block Storage options you can add to every of your Virtual Machines.\r\n\r\nYou can configure pay-per-use Virtual Disks (vDisks) with flexible size from 5 GiB to 1 TiB per Volume, dedicated to each Virtual Machine.\r\n\r\n\r\nPerformance Storage\r\n\r\nIntended for Applications requiring fast response time for less critical business revenue.\r\n\r\nTypical Applications: Virtualization, Business applications, such as SAP®, Oracle®.\r\n\r\nTechnical Specifications: RAID 50 block-level striping with distributed parity, up to 57K IOPS at 8K random IOs with 80/20 read/write ratio with less than or equal to 25 milliseconds response time."
+    },
+    "categories": [
+      "029071cd-845e-43bc-be25-44e22de3123d"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 336,
+      "guid": "47d340f8-1ef5-4fb0-b8c9-a28ad60ac95c",
+      "modified": 1484728058935,
+      "created": 1484728058935,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 1585,
+      "fileChecksum": "56a1d902a07ac589a493059e1d66b210",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "virtualStorage"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "virtualStorage",
+    "showPrice": true
+  },
+  {
+    "timestamp": 333,
+    "guid": "c9b57335-c945-4453-ab39-98778d3e3193",
+    "modified": 1484728058810,
+    "created": 1484549340352,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Block Storage for Physical Servers"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade Block Storage that meets all your needs.\r\n\r\nWe provide a variety of reliable performance options and fully flexible capacity you can share across all your workloads.\r\n\r\nYou can configure pay-per-use LUN sizes in 1 GiB increments from 1GiB to 8TiB, and pay-as-you-grow them in any 1 GiB increments at any time.\r\n\r\n\r\nHigh Performance Storage\r\n\r\nIntended for Write intensive applications, and applications that are critical to business revenue and require high performance and availability.\r\n\r\nTypical Applications: SAP®, Oracle® Business Intelligence and more.\r\n\r\nTechnical Specifications: RAID 10 mirrored sets in a striped set with fault tolerance, up to 80K IOPS at 8K random IOs with 80/20 read/write ratio, with less than 25 milliseconds response time.\r\n\r\n\r\nPerformance Storage\r\n\r\nIntended for Applications requiring fast response time for less critical business revenue.\r\n\r\nTypical Applications: Business applications, such as SAP®, Oracle®.\r\n\r\nTechnical Specifications: RAID 50 block-level striping with distributed parity, up to 57K IOPS at 8K random IOs with 80/20 read/write ratio with less than or equal to 25 milliseconds response time.\r\n\r\n\r\nBulk Storage\r\n\r\nIntended for less important applications, such as applications requiring slower response time for less business critical revenue.\r\n\r\nTypical Applications: Content Depot, Fixed Content, Compliance, Long Term Retention, or Compute intensive applications requiring SAN storage.\r\n\r\nTechnical Specifications: RAID 60 straight block-level striping of RAID 0 with the distributed double parity of RAID 6, up to 10K IOPS at 8K random IOs with 80/20 read/write ratio with less than or equal to 30 milliseconds response time."
+    },
+    "categories": [
+      "7e09432b-6bcc-416f-b015-ddb93d7e8f31"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 331,
+      "guid": "6dba64cc-8b21-4cec-8b22-aea8cca1734e",
+      "modified": 1484728058776,
+      "created": 1484728058776,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 1598,
+      "fileChecksum": "e647a0dfbdcecca1031a3bb5f0c8fbe5",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "physicalStorage"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "physicalStorage",
+    "showPrice": true
+  },
+  {
+    "timestamp": 330,
+    "guid": "daff4589-b05f-4a2c-a174-2d5b8da02131",
+    "modified": 1484728058765,
+    "created": 1484549073602,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Block Storage for Physical Servers"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade Block Storage that meets all your needs.\r\n\r\nWe provide a variety of reliable performance options and fully flexible capacity you can share across all your workloads.\r\n\r\nYou can configure pay-per-use LUN sizes in 1 GiB increments from 1GiB to 8TiB, and pay-as-you-grow them in any 1 GiB increments at any time.\r\n\r\n\r\nHigh Performance Storage\r\n\r\nIntended for Write intensive applications, and applications that are critical to business revenue and require high performance and availability.\r\n\r\nTypical Applications: SAP®, Oracle® Business Intelligence and more.\r\n\r\nTechnical Specifications: RAID 10 mirrored sets in a striped set with fault tolerance, up to 80K IOPS at 8K random IOs with 80/20 read/write ratio, with less than 25 milliseconds response time.\r\n\r\n\r\nPerformance Storage\r\n\r\nIntended for Applications requiring fast response time for less critical business revenue.\r\n\r\nTypical Applications: Business applications, such as SAP®, Oracle®.\r\n\r\nTechnical Specifications: RAID 50 block-level striping with distributed parity, up to 57K IOPS at 8K random IOs with 80/20 read/write ratio with less than or equal to 25 milliseconds response time.\r\n\r\n\r\nBulk Storage\r\n\r\nIntended for less important applications, such as applications requiring slower response time for less business critical revenue.\r\n\r\nTypical Applications: Content Depot, Fixed Content, Compliance, Long Term Retention, or Compute intensive applications requiring SAN storage.\r\n\r\nTechnical Specifications: RAID 60 straight block-level striping of RAID 0 with the distributed double parity of RAID 6, up to 10K IOPS at 8K random IOs with 80/20 read/write ratio with less than or equal to 30 milliseconds response time."
+    },
+    "categories": [
+      "029071cd-845e-43bc-be25-44e22de3123d"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 328,
+      "guid": "395e15de-33be-4075-b91c-ab3a5ee20ef5",
+      "modified": 1484728058694,
+      "created": 1484728058694,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 1598,
+      "fileChecksum": "e647a0dfbdcecca1031a3bb5f0c8fbe5",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "physicalStorage"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "physicalStorage",
+    "showPrice": true
+  },
+  {
+    "timestamp": 325,
+    "guid": "255bddad-37ef-4e37-8f9b-5b49d432247c",
+    "modified": 1484728058549,
+    "created": 1484549340202,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Microsoft® Hyper-V Microsoft® Windows Virtual Machine"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade Microsoft® Hyper-V Virtual Machines from HPE, your Global Certified Microsoft® Service Provider.\r\n\r\nWe provide a full range of 12 Virtual Machine vCPU and RAM preset combinations to meet your needs, up to 16 vCPU and 64GB RAM.\r\n\r\nVirtual Machines are hosted on shared Multi-Tenant Certified Microsoft® Hyper-V Hypervisor Hosts and underpinning hardware managed by HPE at all times.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of Microsoft® Windows Server® and associated Hardware.\r\n\r\nHPE Provides McAfee® Anti-malware protection for Windows® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines."
+    },
+    "categories": [
+      "7e09432b-6bcc-416f-b015-ddb93d7e8f31"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 322,
+      "guid": "37c7224a-3b99-4a97-90ef-33ffb3b6eff5",
+      "modified": 1484728058496,
+      "created": 1484728058496,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 954,
+      "fileChecksum": "35c0a5d5c258b69271d1dee40f84ac9a",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "hyperVVirtualMachineWindows"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "hyperVVirtualMachineWindows",
+    "showPrice": true
+  },
+  {
+    "timestamp": 323,
+    "guid": "ea28bf32-3d7d-45e2-8429-b4e1dff4f794",
+    "modified": 1484728058522,
+    "created": 1484549073321,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Microsoft® Hyper-V Microsoft® Windows Virtual Machine"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade Microsoft® Hyper-V Virtual Machines from HPE, your Global Certified Microsoft® Service Provider.\r\n\r\nWe provide a full range of 12 Virtual Machine vCPU and RAM preset combinations to meet your needs, up to 16 vCPU and 64GB RAM.\r\n\r\nVirtual Machines are hosted on shared Multi-Tenant Certified Microsoft® Hyper-V Hypervisor Hosts and underpinning hardware managed by HPE at all times.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of Microsoft® Windows Server® and associated Hardware.\r\n\r\nHPE Provides McAfee® Anti-malware protection for Windows® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines."
+    },
+    "categories": [
+      "029071cd-845e-43bc-be25-44e22de3123d"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 321,
+      "guid": "e32d5987-1b65-4ba4-a3c3-1276a1fed4c4",
+      "modified": 1484728058484,
+      "created": 1484728058484,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 954,
+      "fileChecksum": "35c0a5d5c258b69271d1dee40f84ac9a",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "hyperVVirtualMachineWindows"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "hyperVVirtualMachineWindows",
+    "showPrice": true
+  },
+  {
+    "timestamp": 317,
+    "guid": "bc9307ed-7c62-4324-8f98-3dc6f24a5eb7",
+    "modified": 1484728058346,
+    "created": 1484549339983,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Microsoft® Hyper-V SUSE® Linux Enterprise Virtual Machine"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade Microsoft® Hyper-V Virtual Machines from HPE, your Global Certified SUSE® Alliance Partner.\r\n\r\nWe provide a full range of 12 Virtual Machine vCPU and RAM preset combinations to meet your needs, up to 16 vCPU and 64GB RAM.\r\n\r\nVirtual Machines are hosted on shared Multi-Tenant Certified Microsoft® Hyper-V Hypervisor Hosts and underpinning hardware managed by HPE at all times.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard SUSE® Linux Enterprise Server® Operating System Licenses. The Server and SUSE® Linux Enterprise Server® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard SUSE® Linux Enterprise Server® Operating System Licenses. The Server and SUSE® Linux Enterprise Server® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of SUSE® Linux Enterprise Server® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Linux® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines."
+    },
+    "categories": [
+      "7e09432b-6bcc-416f-b015-ddb93d7e8f31"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 313,
+      "guid": "65853a01-bd89-4632-9f58-6f9ed36e430d",
+      "modified": 1484728058269,
+      "created": 1484728058269,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 3381,
+      "fileChecksum": "91493d8faec869c4e5387a7d17f9a6fe",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "hyperVVirtualMachineSuse"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "hyperVVirtualMachineSuse",
+    "showPrice": true
+  },
+  {
+    "timestamp": 315,
+    "guid": "d19f262a-1e37-4453-bd36-cf7da91b75e7",
+    "modified": 1484728058323,
+    "created": 1484549073039,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Microsoft® Hyper-V SUSE® Linux Enterprise Virtual Machine"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade Microsoft® Hyper-V Virtual Machines from HPE, your Global Certified SUSE® Alliance Partner.\r\n\r\nWe provide a full range of 12 Virtual Machine vCPU and RAM preset combinations to meet your needs, up to 16 vCPU and 64GB RAM.\r\n\r\nVirtual Machines are hosted on shared Multi-Tenant Certified Microsoft® Hyper-V Hypervisor Hosts and underpinning hardware managed by HPE at all times.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard SUSE® Linux Enterprise Server® Operating System Licenses. The Server and SUSE® Linux Enterprise Server® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard SUSE® Linux Enterprise Server® Operating System Licenses. The Server and SUSE® Linux Enterprise Server® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of SUSE® Linux Enterprise Server® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Linux® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines."
+    },
+    "categories": [
+      "029071cd-845e-43bc-be25-44e22de3123d"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 314,
+      "guid": "32e72cca-332a-42d1-871b-d922a174d7bf",
+      "modified": 1484728058287,
+      "created": 1484728058287,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 3381,
+      "fileChecksum": "91493d8faec869c4e5387a7d17f9a6fe",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "hyperVVirtualMachineSuse"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "hyperVVirtualMachineSuse",
+    "showPrice": true
+  },
+  {
+    "timestamp": 309,
+    "guid": "61a92fb7-f5f4-4e57-b610-665fd7892171",
+    "modified": 1484728058140,
+    "created": 1484549072800,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Microsoft® Hyper-V Red Hat® Enterprise Linux® Virtual Machine"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade Microsoft® Hyper-V Virtual Machines from HPE Global Red Hat® Certified Cloud Provider.\r\n\r\nWe provide a full range of 12 Virtual Machine vCPU and RAM preset combinations to meet your needs, up to 16 vCPU and 64GB RAM.\r\n\r\nVirtual Machines are hosted on shared Multi-Tenant Certified Microsoft® Hyper-V Hypervisor Hosts and underpinning hardware managed by HPE at all times.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard Red Hat® Enterprise Linux® Operating System Licenses. The Server and Red Hat® Enterprise Linux® Operating System are installed by HPE.\r\n \r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nAs a Red Hat® Certified Cloud Provider, we provide Red Hat® Update Infrastructure (RHUI) at no charge and for your convenience in managing Patch availability and deployments.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard Red Hat® Enterprise Linux® Operating System Licenses. The Server and Red Hat® Enterprise Linux® Operating System are installed by HPE.\r\n \r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of Red Hat® Enterprise Linux® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Linux® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n \r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines."
+    },
+    "categories": [
+      "029071cd-845e-43bc-be25-44e22de3123d"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 306,
+      "guid": "e5970ab2-5bce-4b4d-ac37-3bac0949b31b",
+      "modified": 1484728058099,
+      "created": 1484728058099,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 4089,
+      "fileChecksum": "56b392757955af62c0db65abe9f92e42",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "hyperVVirtualMachineRedHat"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "hyperVVirtualMachineRedHat",
+    "showPrice": true
+  },
+  {
+    "timestamp": 307,
+    "guid": "e29ababb-c4e9-4dc7-9ced-80342bcda3e2",
+    "modified": 1484728058106,
+    "created": 1484549339802,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Microsoft® Hyper-V Red Hat® Enterprise Linux® Virtual Machine"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade Microsoft® Hyper-V Virtual Machines from HPE Global Red Hat® Certified Cloud Provider.\r\n\r\nWe provide a full range of 12 Virtual Machine vCPU and RAM preset combinations to meet your needs, up to 16 vCPU and 64GB RAM.\r\n\r\nVirtual Machines are hosted on shared Multi-Tenant Certified Microsoft® Hyper-V Hypervisor Hosts and underpinning hardware managed by HPE at all times.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard Red Hat® Enterprise Linux® Operating System Licenses. The Server and Red Hat® Enterprise Linux® Operating System are installed by HPE.\r\n \r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nAs a Red Hat® Certified Cloud Provider, we provide Red Hat® Update Infrastructure (RHUI) at no charge and for your convenience in managing Patch availability and deployments.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard Red Hat® Enterprise Linux® Operating System Licenses. The Server and Red Hat® Enterprise Linux® Operating System are installed by HPE.\r\n \r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of Red Hat® Enterprise Linux® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Linux® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n \r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines."
+    },
+    "categories": [
+      "7e09432b-6bcc-416f-b015-ddb93d7e8f31"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 304,
+      "guid": "bd4b218c-ce65-4462-903e-729779285eb4",
+      "modified": 1484728058052,
+      "created": 1484728058052,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 4089,
+      "fileChecksum": "56b392757955af62c0db65abe9f92e42",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "hyperVVirtualMachineRedHat"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "hyperVVirtualMachineRedHat",
+    "showPrice": true
+  },
+  {
+    "timestamp": 301,
+    "guid": "699f0b1e-d38c-4f61-9f35-2ab630a14824",
+    "modified": 1484728057924,
+    "created": 1484549072576,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "VMware® ESX SUSE® Linux Enterprise Virtual Machine"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade VMware® Virtual Machines from HPE, your Global Certified SUSE® Alliance Partner.\r\n\r\nWe provide flexible ranges of Virtual Machine vCPU and RAM combinations to meet your needs, up to 16 vCPU and 64GB RAM, and you can always flex each of your Virtual Machines later on to any new desired size.\r\n\r\nVirtual Machines are hosted on shared Multi-Tenant Certified VMware® Hypervisor Hosts and underpinning hardware managed by HPE at all times.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard SUSE® Linux Enterprise Server® Operating System Licenses. The Server and SUSE® Linux Enterprise Server® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard SUSE® Linux Enterprise Server® Operating System Licenses. The Server and SUSE® Linux Enterprise Server® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of SUSE® Linux Enterprise Server® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Linux® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines."
+    },
+    "categories": [
+      "029071cd-845e-43bc-be25-44e22de3123d"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 300,
+      "guid": "ecbc2a46-ac6d-4820-8370-016a4aef3845",
+      "modified": 1484728057864,
+      "created": 1484728057864,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 3381,
+      "fileChecksum": "91493d8faec869c4e5387a7d17f9a6fe",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "virtualMachineSuse"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "virtualMachineSuse",
+    "showPrice": true
+  },
+  {
+    "timestamp": 298,
+    "guid": "a23e1e28-d165-49ae-a09b-4c5851f58866",
+    "modified": 1484728057837,
+    "created": 1484549339575,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "VMware® ESX SUSE® Linux Enterprise Virtual Machine"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade VMware® Virtual Machines from HPE, your Global Certified SUSE® Alliance Partner.\r\n\r\nWe provide flexible ranges of Virtual Machine vCPU and RAM combinations to meet your needs, up to 16 vCPU and 64GB RAM, and you can always flex each of your Virtual Machines later on to any new desired size.\r\n\r\nVirtual Machines are hosted on shared Multi-Tenant Certified VMware® Hypervisor Hosts and underpinning hardware managed by HPE at all times.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard SUSE® Linux Enterprise Server® Operating System Licenses. The Server and SUSE® Linux Enterprise Server® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard SUSE® Linux Enterprise Server® Operating System Licenses. The Server and SUSE® Linux Enterprise Server® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of SUSE® Linux Enterprise Server® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Linux® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines."
+    },
+    "categories": [
+      "7e09432b-6bcc-416f-b015-ddb93d7e8f31"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 296,
+      "guid": "22e6cd29-2f41-4ee6-8a26-a1931ad7b55f",
+      "modified": 1484728057793,
+      "created": 1484728057793,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 3381,
+      "fileChecksum": "91493d8faec869c4e5387a7d17f9a6fe",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "virtualMachineSuse"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "virtualMachineSuse",
+    "showPrice": true
+  },
+  {
+    "timestamp": 293,
+    "guid": "da704819-1351-49fb-8bc4-3cb8c9f10f5e",
+    "modified": 1484728057695,
+    "created": 1484549072341,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "VMware® ESX Microsoft® Windows Virtual Machine"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade VMware® Virtual Machines from HPE, your Global Certified Microsoft® Service Provider.\r\n\r\nWe provide flexible ranges of Virtual Machine vCPU and RAM combinations to meet your needs, up to 16 vCPU and 64GB RAM, and you can always flex each of your Virtual Machines later on to any new desired size.\r\n\r\nVirtual Machines are hosted on shared Multi-Tenant Certified VMware® Hypervisor Hosts and underpinning hardware managed by HPE at all times.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of Microsoft® Windows Server® and associated Hardware.\r\n\r\nHPE Provides McAfee® Anti-malware protection for Windows® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines."
+    },
+    "categories": [
+      "029071cd-845e-43bc-be25-44e22de3123d"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 291,
+      "guid": "1c0f9369-465e-4e3a-9618-8feb79d99848",
+      "modified": 1484728057644,
+      "created": 1484728057644,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 954,
+      "fileChecksum": "35c0a5d5c258b69271d1dee40f84ac9a",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "virtualMachineWindows"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "virtualMachineWindows",
+    "showPrice": true
+  },
+  {
+    "timestamp": 290,
+    "guid": "e6c12cc9-a115-4ee8-be68-6b168849dc85",
+    "modified": 1484728057632,
+    "created": 1484549339376,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "VMware® ESX Microsoft® Windows Virtual Machine"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade VMware® Virtual Machines from HPE, your Global Certified Microsoft® Service Provider.\r\n\r\nWe provide flexible ranges of Virtual Machine vCPU and RAM combinations to meet your needs, up to 16 vCPU and 64GB RAM, and you can always flex each of your Virtual Machines later on to any new desired size.\r\n\r\nVirtual Machines are hosted on shared Multi-Tenant Certified VMware® Hypervisor Hosts and underpinning hardware managed by HPE at all times.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of Microsoft® Windows Server® and associated Hardware.\r\n\r\nHPE Provides McAfee® Anti-malware protection for Windows® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines."
+    },
+    "categories": [
+      "7e09432b-6bcc-416f-b015-ddb93d7e8f31"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 288,
+      "guid": "189e7e80-57f0-41f2-9240-f07d27a2e113",
+      "modified": 1484728057572,
+      "created": 1484728057572,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 954,
+      "fileChecksum": "35c0a5d5c258b69271d1dee40f84ac9a",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "virtualMachineWindows"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "virtualMachineWindows",
+    "showPrice": true
+  },
+  {
+    "timestamp": 285,
+    "guid": "8aa6e8ed-4ff8-4530-a5e7-d0199a78d171",
+    "modified": 1484728057452,
+    "created": 1484549072048,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "VMware® ESX Red Hat® Enterprise Linux® Virtual Machine"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade VMware® Virtual Machines from HPE Global Red Hat® Certified Cloud Provider.\r\n\r\nWe provide flexible ranges of Virtual Machine vCPU and RAM combinations to meet your needs, up to 16 vCPU and 64GB RAM, and you can always flex each of your Virtual Machines later on to any new desired size.\r\n\r\nVirtual Machines are hosted on shared Multi-Tenant Certified VMware® Hypervisor Hosts and underpinning hardware managed by HPE at all times. \r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard Red Hat® Enterprise Linux® Operating System Licenses. The Server and Red Hat® Enterprise Linux® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nAs a Red Hat® Certified Cloud Provider, we provide Red Hat® Update Infrastructure (RHUI) at no charge and for your convenience in managing Patch availability and deployments.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard Red Hat® Enterprise Linux® Operating System Licenses. The Server and Red Hat® Enterprise Linux® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of Red Hat® Enterprise Linux® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Linux® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines."
+    },
+    "categories": [
+      "029071cd-845e-43bc-be25-44e22de3123d"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 282,
+      "guid": "d3705216-ceca-4fe2-acf5-11a8b5c42158",
+      "modified": 1484728057375,
+      "created": 1484728057375,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 4089,
+      "fileChecksum": "56b392757955af62c0db65abe9f92e42",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "virtualMachineRedHat"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "virtualMachineRedHat",
+    "showPrice": true
+  },
+  {
+    "timestamp": 283,
+    "guid": "3fc60215-e514-454a-b857-ae42662d1625",
+    "modified": 1484728057386,
+    "created": 1484549339167,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "VMware® ESX Red Hat® Enterprise Linux® Virtual Machine"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade VMware® Virtual Machines from HPE Global Red Hat® Certified Cloud Provider.\r\n\r\nWe provide flexible ranges of Virtual Machine vCPU and RAM combinations to meet your needs, up to 16 vCPU and 64GB RAM, and you can always flex each of your Virtual Machines later on to any new desired size.\r\n\r\nVirtual Machines are hosted on shared Multi-Tenant Certified VMware® Hypervisor Hosts and underpinning hardware managed by HPE at all times. \r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard Red Hat® Enterprise Linux® Operating System Licenses. The Server and Red Hat® Enterprise Linux® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nAs a Red Hat® Certified Cloud Provider, we provide Red Hat® Update Infrastructure (RHUI) at no charge and for your convenience in managing Patch availability and deployments.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard Red Hat® Enterprise Linux® Operating System Licenses. The Server and Red Hat® Enterprise Linux® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of Red Hat® Enterprise Linux® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Linux® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines."
+    },
+    "categories": [
+      "7e09432b-6bcc-416f-b015-ddb93d7e8f31"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 280,
+      "guid": "dd64321a-dfa7-47c5-a651-35aa3f60c4a7",
+      "modified": 1484728057281,
+      "created": 1484728057281,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 4089,
+      "fileChecksum": "56b392757955af62c0db65abe9f92e42",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "virtualMachineRedHat"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "virtualMachineRedHat",
+    "showPrice": true
+  },
+  {
+    "timestamp": 277,
+    "guid": "ecf49a2a-71c9-4306-82d8-6a877fd5ee92",
+    "modified": 1484728057129,
+    "created": 1484549071712,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Microsoft® Windows Physical Server"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade HPE ProLiant Servers from HPE Global Certified Microsoft® Service Provider.\r\n\r\nWe provide a full range of HPE ProLiant Multi-Core and RAM models with Intel® Xeon® and AMD® Processor Generations to meet your needs.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses, and you have the option to provide your own Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Physical Servers, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses, and you have the option to provide your own Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of Microsoft® Windows Server® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Windows® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Physical Servers."
+    },
+    "categories": [
+      "029071cd-845e-43bc-be25-44e22de3123d"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 274,
+      "guid": "a5df2cc8-ee41-4f90-8e4f-46aa52d7416f",
+      "modified": 1484728057061,
+      "created": 1484728057061,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 5618,
+      "fileChecksum": "bb1edc3c8a6f6567d4e4b27edd3c43d7",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "physicalServerWindows"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "physicalServerWindows",
+    "showPrice": true
+  },
+  {
+    "timestamp": 275,
+    "guid": "786696fb-b586-46c6-83b6-c91b384f7ac1",
+    "modified": 1484728057101,
+    "created": 1484549338940,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Microsoft® Windows Physical Server"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade HPE ProLiant Servers from HPE Global Certified Microsoft® Service Provider.\r\n\r\nWe provide a full range of HPE ProLiant Multi-Core and RAM models with Intel® Xeon® and AMD® Processor Generations to meet your needs.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses, and you have the option to provide your own Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Physical Servers, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses, and you have the option to provide your own Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of Microsoft® Windows Server® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Windows® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Physical Servers."
+    },
+    "categories": [
+      "7e09432b-6bcc-416f-b015-ddb93d7e8f31"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 273,
+      "guid": "dc4db96f-f122-4cbb-a079-4f1b80800a20",
+      "modified": 1484728057030,
+      "created": 1484728057030,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 5618,
+      "fileChecksum": "bb1edc3c8a6f6567d4e4b27edd3c43d7",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "physicalServerWindows"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "physicalServerWindows",
+    "showPrice": true
+  },
+  {
+    "timestamp": 269,
+    "guid": "7dbd33fd-251c-4fa8-b417-ee9cf93582e1",
+    "modified": 1484728056931,
+    "created": 1484549353993,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Provision SAP Standalone Component"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Imagine if you could improve SAP® application provisioning time, gain flexibility to add capacity without capital expenditures, and support additional demand and lower overall costs\r\n\r\nHPE Helion Business Applications for SAP® provide you with agility, flexibility, improved cost control, and service levels required to meet the dynamic requirements facing CIOs.\r\nA Cloud hosting model can provide these things, but you may be hesitant to move your ERP applications to the cloud due to security and data control concerns. HPE solves these obstacles by providing the most secured cloud infrastructure in the industry and providing management tools to allow you to continuously manage your SAP® applications.\r\n \r\nHPE Helion Managed Virtual Private Cloud SAP® services provides you with an SAP® application environment running on HP Enterprise owned infrastructure, operated and housed in a HP Enterprise Datacenter, with logical access to the application environment provided over the Managed Virtual Private Cloud connectivity solution defined when setting up your one or more Virtual Datacenters. The service provides all Infrastructure and SAP® Basis Management for the Application including end to end operation of the Virtual Datacenter LAN, Operating System instance, Database, SAP® Basis Instances.\r\n\r\nHPE As a Service Solution for SAP HANA provides HANA management services for both customer provided appliances and HPE HANA infrastructure that enables a flexible and scalable alternative to deploying HANA with faster deployment times and minimal capital expenditure. Setting up and running SAP HANA requires specialized skills and expertise of HANA appliances, software, and hardware elements. HPE As a Service Solution for SAP HANA combines proven methods, tools, and frameworks—implemented by experienced HPE SAP applications and cloud consultants.\r\nHPE is certified by SAP® as a global provider of cloud services in support of SAP® solutions. Global availability of data centers delivers enterprise cloud services to provision SAP® applications. Modular infrastructure and cloud services avoid service lock in. Industry-leading security architecture—seven levels of security address all aspects of a client’s security requirement.\r\n\r\nThe Managed Virtual Private Cloud for SAP® and HANA management services covers activities and tasks that include:\r\n. SAP® Basis operations\r\n. SAP® Basis administration\r\n. SAP® Basis security management\r\n. SAP® Database and SAP® HANA administration and security\r\n. SAP® Server administration\r\n. Backup and Restore management\r\n. SAN Management for the SAP® Basis Operations Service\r\n. SAP® Database and HANA Server system maintenance\r\n. Proactive monitoring, event detection and notification (availability, capacity and performance)"
+    },
+    "categories": [
+      "4a71bbe7-b96e-43e9-bbab-2c7712c05b91"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 265,
+      "guid": "bf1a6988-ff49-4dcf-80c4-62719e2cdc8d",
+      "modified": 1484728056844,
+      "created": 1484728056844,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 9445,
+      "fileChecksum": "db8a25250b2f029ea7004c2206553607",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "d5ee82aa-sod--ad9b-405f-960d-3e93b60179a9",
+      "sxProviderType": "SOD",
+      "sxRemoteOfferingId": "sodStandaloneComponent"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "sodStandaloneComponent",
+    "showPrice": true
+  },
+  {
+    "timestamp": 267,
+    "guid": "0631a9e7-59f6-43d5-bf7c-389f342d3d88",
+    "modified": 1484728056866,
+    "created": 1484549071272,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "SUSE® Linux Enterprise Physical Server"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade HPE ProLiant Servers from HPE Global Certified SUSE® Alliance Partner.\r\n\r\nWe provide a full range of HPE ProLiant Multi-Core and RAM models with Intel® Xeon® and AMD® Processor Generations to meet your needs.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard SUSE® Linux Enterprise Server® Operating System Licenses, and you have the option to provide your own Licenses. The Server and SUSE® Linux Enterprise Server® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Physical Servers, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard SUSE® Linux Enterprise Server® Operating System Licenses, and you have the option to provide your own Licenses. The Server and SUSE® Linux Enterprise Server® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of SUSE® Linux Enterprise Server® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Linux® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Physical Servers."
+    },
+    "categories": [
+      "029071cd-845e-43bc-be25-44e22de3123d"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 262,
+      "guid": "71cf5b9a-7281-4784-b843-c26bd3484818",
+      "modified": 1484728056751,
+      "created": 1484728056751,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 10169,
+      "fileChecksum": "d5f48712ac2f7c1667988202f8d8f686",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "physicalServerSuse"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "physicalServerSuse",
+    "showPrice": true
+  },
+  {
+    "timestamp": 264,
+    "guid": "85484f65-cbab-4105-9818-c3935a2e1175",
+    "modified": 1484728056840,
+    "created": 1484549338666,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "SUSE® Linux Enterprise Physical Server"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade HPE ProLiant Servers from HPE Global Certified SUSE® Alliance Partner.\r\n\r\nWe provide a full range of HPE ProLiant Multi-Core and RAM models with Intel® Xeon® and AMD® Processor Generations to meet your needs.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard SUSE® Linux Enterprise Server® Operating System Licenses, and you have the option to provide your own Licenses. The Server and SUSE® Linux Enterprise Server® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Physical Servers, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard SUSE® Linux Enterprise Server® Operating System Licenses, and you have the option to provide your own Licenses. The Server and SUSE® Linux Enterprise Server® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of SUSE® Linux Enterprise Server® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Linux® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Physical Servers."
+    },
+    "categories": [
+      "7e09432b-6bcc-416f-b015-ddb93d7e8f31"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 260,
+      "guid": "d3929818-4922-410d-9865-5a204978263c",
+      "modified": 1484728056697,
+      "created": 1484728056697,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 10169,
+      "fileChecksum": "d5f48712ac2f7c1667988202f8d8f686",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "physicalServerSuse"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "physicalServerSuse",
+    "showPrice": true
+  },
+  {
+    "timestamp": 257,
+    "guid": "8ed1a2ac-33a9-453d-9f4b-aefbc6cea548",
+    "modified": 1484728056597,
+    "created": 1484549353830,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Provision Distributed Server SAP System ID"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Provision Distributed SAP System ID"
+    },
+    "categories": [
+      "4a71bbe7-b96e-43e9-bbab-2c7712c05b91"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 256,
+      "guid": "51e54974-7ad0-48d1-b487-c892dc500738",
+      "modified": 1484728056522,
+      "created": 1484728056522,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 9445,
+      "fileChecksum": "db8a25250b2f029ea7004c2206553607",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "d5ee82aa-sod--ad9b-405f-960d-3e93b60179a9",
+      "sxProviderType": "SOD",
+      "sxRemoteOfferingId": "sodDistributedServer"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "sodDistributedServer",
+    "showPrice": true
+  },
+  {
+    "timestamp": 253,
+    "guid": "cb316795-2183-405d-ae1c-2fedf41212a4",
+    "modified": 1484728056303,
+    "created": 1484549070294,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Red Hat® Enterprise Linux® Physical Server"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade HPE ProLiant Servers from HPE Global Red Hat® Certified Cloud Provider.\r\n\r\nWe provide a full range of HPE ProLiant Multi-Core and RAM models with Intel® Xeon® and AMD® Processor Generations to meet your needs.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options: \r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard Red Hat® Enterprise Linux® Operating System Licenses, and you have the option to provide your own Licenses. The Server and Red Hat® Enterprise Linux® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nAs a Red Hat® Certified Cloud Provider, we provide Red Hat® Update Infrastructure (RHUI) at no charge and for your convenience in managing Patch availability and deployments.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Physical Servers, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard Red Hat® Enterprise Linux® Operating System Licenses, and you have the option to provide your own Licenses. The Server and Red Hat® Enterprise Linux® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of Red Hat® Enterprise Linux® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Linux® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Physical Servers."
+    },
+    "categories": [
+      "029071cd-845e-43bc-be25-44e22de3123d"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 246,
+      "guid": "4dd2f4b7-0e16-47e2-a42f-32a8d1f3e907",
+      "modified": 1484728055701,
+      "created": 1484728055701,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 10732,
+      "fileChecksum": "9481222943175b82065e1e89d25ca424",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "physicalServerRedHat"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "physicalServerRedHat",
+    "showPrice": true
+  },
+  {
+    "timestamp": 251,
+    "guid": "dd4dd00e-0fd2-4aa2-b9e4-758672e85ef0",
+    "modified": 1484728056242,
+    "created": 1484549338382,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Red Hat® Enterprise Linux® Physical Server"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade HPE ProLiant Servers from HPE Global Red Hat® Certified Cloud Provider.\r\n\r\nWe provide a full range of HPE ProLiant Multi-Core and RAM models with Intel® Xeon® and AMD® Processor Generations to meet your needs.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options: \r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard Red Hat® Enterprise Linux® Operating System Licenses, and you have the option to provide your own Licenses. The Server and Red Hat® Enterprise Linux® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nAs a Red Hat® Certified Cloud Provider, we provide Red Hat® Update Infrastructure (RHUI) at no charge and for your convenience in managing Patch availability and deployments.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Physical Servers, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard Red Hat® Enterprise Linux® Operating System Licenses, and you have the option to provide your own Licenses. The Server and Red Hat® Enterprise Linux® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of Red Hat® Enterprise Linux® and associated Hardware.\r\n\r\nHPE optionally provides McAfee® Anti-Malware protection for Linux® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Physical Servers."
+    },
+    "categories": [
+      "7e09432b-6bcc-416f-b015-ddb93d7e8f31"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 248,
+      "guid": "739a6935-67ac-4926-bf06-2ccfb0172be5",
+      "modified": 1484728055709,
+      "created": 1484728055709,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 10732,
+      "fileChecksum": "9481222943175b82065e1e89d25ca424",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "physicalServerRedHat"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "physicalServerRedHat",
+    "showPrice": true
+  },
+  {
+    "timestamp": 249,
+    "guid": "e5f769f7-4cb4-4f8d-b850-c8587f8c6e80",
+    "modified": 1484728056144,
+    "created": 1484549353649,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Provision Single Server SAP System ID"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Provision Single Server SID"
+    },
+    "categories": [
+      "4a71bbe7-b96e-43e9-bbab-2c7712c05b91"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 247,
+      "guid": "260a6af8-75b4-4452-8e3c-0a8cc87aa31f",
+      "modified": 1484728055709,
+      "created": 1484728055709,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 9445,
+      "fileChecksum": "db8a25250b2f029ea7004c2206553607",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "d5ee82aa-sod--ad9b-405f-960d-3e93b60179a9",
+      "sxProviderType": "SOD",
+      "sxRemoteOfferingId": "sodSingleServer"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "sodSingleServer",
+    "showPrice": true
+  }
+]
