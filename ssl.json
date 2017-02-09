@@ -1,0 +1,6 @@
+{
+	"privatePath": "ssl/private.pem",
+	"filePath": "ssl/file.crt",
+	"httpPort": 8089,
+	"httpsPort": 8090
+}
