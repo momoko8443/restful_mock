@@ -27,5 +27,6 @@
 	"/catalog-item?": "./response/ci.json",
 	"/catalog-item/*": "./response/ci-detail.json",
 
-	"/category-batch/*": "./response/category-batch.json"
+	"/category-batch/*": "./response/category-batch.json",
+	"/category-batch": "./response/category-batch.json"
 }
