@@ -1,0 +1,104 @@
+{
+  "data": {
+    "summary": {
+      "timestamp": 2,
+      "guid": "efb7baa0-61ea-4e16-9e30-429ba6151f6e",
+      "modified": null,
+      "created": null,
+      "name": {
+        "$type": "l10nString",
+        "$bundleKey": "cat.category.root",
+        "$args": null
+      },
+      "description": null,
+      "state": "ACTIVE",
+      "parent": null,
+      "orderIndex": 0,
+      "icon": null,
+      "tenant": null,
+      "createdBy": null,
+      "owner": null,
+      "hidden": false
+    }
+  },
+  "children": [
+    {
+      "data": {
+        "summary": {
+          "timestamp": 650,
+          "guid": "4a71bbe7-b96e-43e9-bbab-2c7712c05b91",
+          "modified": 1486524015946,
+          "created": 1484549353563,
+          "name": {
+            "$type": "l10nString",
+            "$bundleKey": null,
+            "$args": null,
+            "en": "jessie-test1"
+          },
+          "description": null,
+          "state": "ACTIVE",
+          "parent": "efb7baa0-61ea-4e16-9e30-429ba6151f6e",
+          "orderIndex": 0,
+          "icon": null,
+          "tenant": "adapter-test",
+          "createdBy": "sxCatalogTransportUser",
+          "owner": "sxCatalogTransportUser",
+          "hidden": true
+        }
+      },
+      "children": []
+    },
+    {
+      "data": {
+        "summary": {
+          "timestamp": 646,
+          "guid": "029071cd-845e-43bc-be25-44e22de3123d",
+          "modified": 1486523494221,
+          "created": 1484549069583,
+          "name": {
+            "$type": "l10nString",
+            "$bundleKey": null,
+            "$args": null,
+            "en": "marvel-test1"
+          },
+          "description": null,
+          "state": "ACTIVE",
+          "parent": "efb7baa0-61ea-4e16-9e30-429ba6151f6e",
+          "orderIndex": 0,
+          "icon": null,
+          "tenant": "adapter-test",
+          "createdBy": "sxCatalogTransportUser",
+          "owner": "sxCatalogTransportUser",
+          "hidden": true
+        }
+      },
+      "children": []
+    },
+    {
+      "data": {
+        "summary": {
+          "timestamp": 647,
+          "guid": "7e09432b-6bcc-416f-b015-ddb93d7e8f31",
+          "modified": 1486523494291,
+          "created": 1484549338267,
+          "name": {
+            "$type": "l10nString",
+            "$bundleKey": null,
+            "$args": null,
+            "en": "marvel-test2"
+          },
+          "description": null,
+          "state": "ACTIVE",
+          "parent": "efb7baa0-61ea-4e16-9e30-429ba6151f6e",
+          "orderIndex": 0,
+          "icon": null,
+          "tenant": "adapter-test",
+          "createdBy": "sxCatalogTransportUser",
+          "owner": "sxCatalogTransportUser",
+          "hidden": true
+        }
+      },
+      "children": []
+    }
+  ]
+}
