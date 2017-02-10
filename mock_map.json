@@ -24,5 +24,6 @@
 	"/domains/*/tfaservers/*": "./response/tfa.json",
 	"/domains/*/tfaservers": "./response/tfa.json",
 
-	"/catalog-item?": "./response/ci.json"
+	"/catalog-item?": "./response/ci.json",
+	"/catalog-item/*": "./response/ci-detail.json"
 }

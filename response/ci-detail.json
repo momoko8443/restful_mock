@@ -1,0 +1,336 @@
+{
+  "summary": {
+    "timestamp": 325,
+    "guid": "255bddad-37ef-4e37-8f9b-5b49d432247c",
+    "modified": 1484728058549,
+    "created": 1484549340202,
+    "name": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Microsoft® Hyper-V Microsoft® Windows Virtual Machine"
+    },
+    "description": {
+      "$type": "l10nString",
+      "$bundleKey": null,
+      "$args": null,
+      "en": "Enterprise Grade Microsoft® Hyper-V Virtual Machines from HPE, your Global Certified Microsoft® Service Provider.\r\n\r\nWe provide a full range of 12 Virtual Machine vCPU and RAM preset combinations to meet your needs, up to 16 vCPU and 64GB RAM.\r\n\r\nVirtual Machines are hosted on shared Multi-Tenant Certified Microsoft® Hyper-V Hypervisor Hosts and underpinning hardware managed by HPE at all times.\r\n\r\n\r\nYou can choose to administer each Server yourself, or HPE can administer it for you, and with the following options:\r\n\r\n\r\nYou administer the Server:\r\n\r\nServers you administer must reside on a Virtual Datacenter VLAN you administer.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nServers you administer are not monitored, patched or security-checked by HPE, all system administration, monitoring and instrumentation to manage the Servers is under your full control and responsibility. HPE has no access to Servers you administer.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines, providing you install HPE Backup Agents when requesting the service.\r\n\r\n\r\nHPE administers the Server:\r\n\r\nServers administered by HPE must reside on a Virtual Datacenter VLAN administered by HPE.\r\n\r\nHPE provides certified standard Microsoft® Windows Server® Operating System Licenses. The Server and Microsoft® Windows Server® Operating System are installed by HPE.\r\n\r\nHPE maintains administrative access at all times and is accountable for all management, monitoring, patching and security of Microsoft® Windows Server® and associated Hardware.\r\n\r\nHPE Provides McAfee® Anti-malware protection for Windows® in addition to Systems Management, including Change, Incident, and Problem Management.\r\n\r\nHPE Backup and Recovery Services are optionally available and can be added at any time to your existing Virtual Machines."
+    },
+    "categories": [
+      "7e09432b-6bcc-416f-b015-ddb93d7e8f31"
+    ],
+    "catalog": null,
+    "state": "STAGING",
+    "type": "CATALOG_ITEM",
+    "icon": {
+      "timestamp": 322,
+      "guid": "37c7224a-3b99-4a97-90ef-33ffb3b6eff5",
+      "modified": 1484728058496,
+      "created": 1484728058496,
+      "fileName": "generalfile",
+      "mediaType": "image/png",
+      "size": 954,
+      "fileChecksum": "35c0a5d5c258b69271d1dee40f84ac9a",
+      "remoteId": null,
+      "createdBy": "sxCatalogTransportUser"
+    },
+    "subtype": null,
+    "extensions": {
+      "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+      "sxProviderType": "MPC",
+      "sxRemoteOfferingId": "hyperVVirtualMachineWindows"
+    },
+    "popularity": 0,
+    "template": true,
+    "rating": null,
+    "tenant": "adapter-test",
+    "createdBy": "sxCatalogTransportUser",
+    "groups": null,
+    "owner": "sxCatalogTransportUser",
+    "itemId": "hyperVVirtualMachineWindows",
+    "showPrice": true
+  },
+  "version": "0.0.1",
+  "templateId": null,
+  "profiles": null,
+  "contacts": null,
+  "gallery": null,
+  "attachments": null,
+  "longDescription": null,
+  "relatedItems": null,
+  "childItems": null,
+  "outputDescriptors": [
+    {
+      "name": "created",
+      "location": "$.serviceInstance.components[0].properties.fields[?(@.id == 'created')].value"
+    },
+    {
+      "name": "flavorType",
+      "location": "$.serviceInstance.components[0].properties.fields[?(@.id == 'flavorType')].value"
+    },
+    {
+      "name": "imageDisplayName",
+      "location": "$.serviceInstance.components[0].properties.fields[?(@.id == 'imageDisplayName')].value"
+    },
+    {
+      "name": "managementType",
+      "location": "$.serviceInstance.components[0].properties.fields[?(@.id == 'managementType')].value"
+    },
+    {
+      "name": "privateIp",
+      "location": "$.serviceInstance.components[0].properties.fields[?(@.id == 'privateIp')].value"
+    },
+    {
+      "name": "publicIp",
+      "location": "$.serviceInstance.components[0].properties.fields[?(@.id == 'publicIp')].value"
+    },
+    {
+      "name": "size",
+      "location": "$.serviceInstance.components[0].properties.fields[?(@.id == 'size')].value"
+    },
+    {
+      "name": "sla",
+      "location": "$.serviceInstance.components[0].properties.fields[?(@.id == 'sla')].value"
+    },
+    {
+      "name": "userId",
+      "location": "$.serviceInstance.components[0].properties.fields[?(@.id == 'userId')].value"
+    },
+    {
+      "name": "vlan",
+      "location": "$.serviceInstance.components[0].properties.fields[?(@.id == 'vlan')].value"
+    }
+  ],
+  "linkedItems": null,
+  "quantityUnsupported": null,
+  "form": {
+    "fields": [
+      {
+        "id": "fieldset1",
+        "name": "Network Configuration",
+        "type": "FIELDSET",
+        "active": true,
+        "fields": [
+          {
+            "id": "mpcPropelOrgCompartmentName",
+            "help": "Set the current compartment",
+            "name": "Compartment Name",
+            "type": "TEXT_INPUT",
+            "value": "",
+            "constraints": {
+              "requiredExpression": "true"
+            }
+          },
+          {
+            "id": "mpcDatacenter",
+            "help": "Available Datacenters for this Server",
+            "name": "Data Center",
+            "type": "DROPDOWN_LIST",
+            "constraints": {
+              "multipleSelection": false,
+              "requiredExpression": "true",
+              "dynamicAvailableValues": {
+                "parameters": {
+                  "uri": "'\\/optionValues/MPC/48e7d04a-mpc--09b7-4375-883d-22c08361d96d/v2dataCenters'",
+                  "compartment": "mpcPropelOrgCompartmentName.value"
+                },
+                "dataSourceId": "sxDataSource"
+              }
+            },
+            "activeExpression": "true"
+          },
+          {
+            "id": "mpcCreateEntityInSecondarySiteOfDC",
+            "name": "Create the Server in Secondary Site",
+            "type": "CHECKBOX",
+            "value": "false",
+            "active": true,
+            "editable": true
+          },
+          {
+            "id": "v2ServerName",
+            "help": "Set a hostname up to 15 characters starting with a letter for the unique network DNS name, containing only lower-case character, upper-case character and number.",
+            "name": "Hostname",
+            "type": "TEXT_INPUT",
+            "constraints": {
+              "pattern": {
+                "regexp": "[A-Za-z]+[A-Za-z0-9]+"
+              },
+              "maxLength": 15,
+              "requiredExpression": "true"
+            }
+          },
+          {
+            "id": "mpcHPEManaged",
+            "name": "HPE administers the Server",
+            "type": "CHECKBOX",
+            "value": "true",
+            "active": true,
+            "editable": true
+          },
+          {
+            "id": "mpcVlan",
+            "help": "Available VLANs administered by HPE for this Server",
+            "name": "VLAN",
+            "type": "DROPDOWN_LIST",
+            "constraints": {
+              "multipleSelection": false,
+              "requiredExpression": "true",
+              "dynamicAvailableValues": {
+                "parameters": {
+                  "uri": "'\\/optionValues/MPC/48e7d04a-mpc--09b7-4375-883d-22c08361d96d/vlans'",
+                  "compartment": "mpcPropelOrgCompartmentName.value",
+                  "mpcDatacenter": "mpcDatacenter.value",
+                  "mpcHPEManaged": "mpcHPEManaged.value"
+                },
+                "dataSourceId": "sxDataSource"
+              }
+            },
+            "activeExpression": "mpcHPEManaged.value== true && mpcDatacenter.value"
+          },
+          {
+            "id": "mpcVlan2",
+            "help": "Available VLANs administered by me for this Server",
+            "name": "VLAN",
+            "type": "DROPDOWN_LIST",
+            "constraints": {
+              "multipleSelection": false,
+              "requiredExpression": "true",
+              "dynamicAvailableValues": {
+                "parameters": {
+                  "uri": "'\\/optionValues/MPC/48e7d04a-mpc--09b7-4375-883d-22c08361d96d/vlans'",
+                  "compartment": "mpcPropelOrgCompartmentName.value",
+                  "mpcDatacenter": "mpcDatacenter.value",
+                  "mpcHPEManaged": "mpcHPEManaged.value"
+                },
+                "dataSourceId": "sxDataSource"
+              }
+            },
+            "activeExpression": "mpcHPEManaged.value== false && mpcDatacenter.value"
+          }
+        ]
+      },
+      {
+        "id": "fieldset2",
+        "name": "Virtual Machine Configuration",
+        "type": "FIELDSET",
+        "active": true,
+        "fields": [
+          {
+            "id": "mpcSLA",
+            "name": "Service Level",
+            "type": "DROPDOWN_LIST",
+            "value": "99.9%",
+            "constraints": {
+              "requiredExpression": "true",
+              "dynamicAvailableValues": {
+                "parameters": {
+                  "uri": "'\\/optionValues/MPC/48e7d04a-mpc--09b7-4375-883d-22c08361d96d/sla'",
+                  "secondarySite": "mpcCreateEntityInSecondarySiteOfDC.value"
+                },
+                "dataSourceId": "sxDataSource"
+              }
+            },
+            "activeExpression": "mpcCreateEntityInSecondarySiteOfDC.value==false || mpcCreateEntityInSecondarySiteOfDC.value"
+          },
+          {
+            "id": "mpcVirtualMachineCpu",
+            "name": "CPU",
+            "type": "DROPDOWN_LIST",
+            "constraints": {
+              "multipleSelection": false,
+              "requiredExpression": "true",
+              "dynamicAvailableValues": {
+                "parameters": {
+                  "sla": "mpcSLA.value",
+                  "uri": "'\\/optionValues/MPC/48e7d04a-mpc--09b7-4375-883d-22c08361d96d/vmcpuhyperv'",
+                  "os_type": "'Windows'",
+                  "hpeManaged": "mpcHPEManaged.value",
+                  "compartment": "mpcPropelOrgCompartmentName.value",
+                  "flavor_type": "'Virtual'",
+                  "mpcDatacenter": "mpcDatacenter.value"
+                },
+                "dataSourceId": "sxDataSource"
+              }
+            },
+            "activeExpression": "(mpcHPEManaged.value == true || mpcHPEManaged.value == false) && mpcDatacenter.value && mpcSLA.value"
+          },
+          {
+            "id": "mpcVirtualMachineMemory",
+            "name": "Memory",
+            "type": "DROPDOWN_LIST",
+            "constraints": {
+              "multipleSelection": false,
+              "requiredExpression": "true",
+              "dynamicAvailableValues": {
+                "parameters": {
+                  "sla": "mpcSLA.value",
+                  "uri": "'\\/optionValues/MPC/48e7d04a-mpc--09b7-4375-883d-22c08361d96d/vmmemoryhyperv'",
+                  "cpus": "mpcVirtualMachineCpu.value",
+                  "os_type": "'Windows'",
+                  "hpeManaged": "mpcHPEManaged.value",
+                  "compartment": "mpcPropelOrgCompartmentName.value",
+                  "flavor_type": "'Virtual'",
+                  "mpcDatacenter": "mpcDatacenter.value"
+                },
+                "dataSourceId": "sxDataSource"
+              }
+            },
+            "activeExpression": "mpcVirtualMachineCpu.value"
+          },
+          {
+            "id": "mpcImage",
+            "name": "Hyper-V Microsoft® Windows Server® Version",
+            "type": "DROPDOWN_LIST",
+            "constraints": {
+              "multipleSelection": false,
+              "requiredExpression": "true",
+              "dynamicAvailableValues": {
+                "parameters": {
+                  "sla": "mpcSLA.value",
+                  "uri": "'\\/optionValues/MPC/48e7d04a-mpc--09b7-4375-883d-22c08361d96d/vmimageshyperv'",
+                  "os_type": "'Windows'",
+                  "hpeManaged": "mpcHPEManaged.value",
+                  "compartment": "mpcPropelOrgCompartmentName.value",
+                  "flavor_type": "'Virtual'",
+                  "mpcDatacenter": "mpcDatacenter.value",
+                  "secondarySite": "mpcCreateEntityInSecondarySiteOfDC.value",
+                  "memory_flavorId": "mpcVirtualMachineMemory.value"
+                },
+                "dataSourceId": "sxDataSource"
+              }
+            },
+            "activeExpression": "mpcVirtualMachineMemory.value"
+          }
+        ]
+      }
+    ]
+  },
+  "actions": [
+    {
+      "item": {
+        "summary": {
+          "name": {
+            "en": "Cancel"
+          },
+          "extensions": {
+            "sxProviderId": "48e7d04a-mpc--09b7-4375-883d-22c08361d96d",
+            "sxProviderType": "MPC",
+            "sxRemoteOfferingId": "CANCEL"
+          },
+          "description": {
+            "en": "Cancel the service"
+          }
+        }
+      },
+      "label": {
+        "en": "Cancel"
+      },
+      "actionId": "CANCEL",
+      "visibleTo": [
+        "OWNER",
+        "ADMIN"
+      ]
+    }
+  ]
+}
