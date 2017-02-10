@@ -30,7 +30,7 @@ function convertMockMapPath2RegExp(map){
         var json = map[key];
         var newKey = key.replaceAll('\\/','\\\/');
         
-        newKey = newKey.replaceAll('\\*','\\w*');
+        newKey = newKey.replaceAll('\\*','\\S*');
 
         newKey = newKey.replaceAll('\\?','\\?\\S*');
         newKey = '^'+newKey+'$';
