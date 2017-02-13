@@ -1,0 +1,47 @@
+[
+	{
+		"id": "001",
+		"name": "ci_1",
+		"description": "xxxxxx",
+		"categories": [
+			{
+				"id":"001",
+				"name":"category_1"
+			},
+			{
+				"id":"002",
+				"name":"category_2"
+			}
+		]
+	},
+	{
+		"id": "002",
+		"name": "ci_2",
+		"description": "xxxxxx",
+		"categories": [
+			{
+				"id":"001",
+				"name":"category_1"
+			},
+			{
+				"id":"002",
+				"name":"category_2"
+			}
+		]
+	},
+	{
+		"id": "003",
+		"name": "ci_3",
+		"description": "xxxxxx",
+		"categories": [
+			{
+				"id":"001",
+				"name":"category_1"
+			},
+			{
+				"id":"002",
+				"name":"category_2"
+			}
+		]
+	}
+]

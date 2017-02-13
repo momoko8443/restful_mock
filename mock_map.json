@@ -24,10 +24,12 @@
 	"/domains/*/tfaservers/*": "./response/tfa.json",
 	"/domains/*/tfaservers": "./response/tfa.json",
 
-	"/catalog-item?": "./response/ci.json",
-	"/catalog-item/*": "./response/ci-detail.json",
-	
-	"/category?": "./response/catalog.categories.json",
+	"/batch/catalog-item?": "./response/ci.json",
+	"/batch/catalog-item/*": "./response/ci-detail.json",
+	"/batch/catalog-items": "./response/catalog-items.json",
+
+
+	"/batch/category?": "./response/catalog.categories.json",
 	"/category-batch/*": "./response/category-batch.json",
 	"/category-batch": "./response/category-batch.json"
 }
