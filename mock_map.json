@@ -29,7 +29,7 @@
 	"/batch/catalog-items": "./response/catalog-items.json",
 
 
-	"/batch/category?": "./response/catalog.categories.json",
+	"/batch/categories": "./response/catalog.categories.json",
 	"/category-batch/*": "./response/category-batch.json",
 	"/category-batch": "./response/category-batch.json"
 }
