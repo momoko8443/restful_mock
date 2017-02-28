@@ -1,4 +1,54 @@
 [
-	{"name":"category1"},
-	{"name":"category2"}
+  {
+    "guid": "9ad9e8f0-1019-4e13-a55f-8a3b0e92f162",
+    "orderIndex": 0,
+    "jdoc": {
+      "summary": {
+        "name": {
+          "$type": "l10nString",
+          "$bundleKey": null,
+          "$args": null,
+          "en": "ATest"
+        },
+        "guid": "9ad9e8f0-1019-4e13-a55f-8a3b0e92f162",
+        "created": 1487051697208,
+        "modified": 1487051697208,
+        "timestamp": 1029,
+        "description": null,
+        "owner": "orgadmin",
+        "state": "ACTIVE",
+        "hidden": false,
+        "parent": "efb7baa0-61ea-4e16-9e30-429ba6151f6e",
+        "tenant": "CONSUMER",
+        "createdBy": " orgadmin",
+        "orderIndex": 0
+      }
+    }
+  },
+  {
+    "guid": "9f3b4624-694c-442a-a38c-40a99f471c2f",
+    "orderIndex": 0,
+    "jdoc": {
+      "summary": {
+        "name": {
+          "$type": "l10nString",
+          "$bundleKey": null,
+          "$args": null,
+          "en": "ATest"
+        },
+        "guid": "9f3b4624-694c-442a-a38c-40a99f471c2f",
+        "created": 1487051697216,
+        "modified": 1487051697216,
+        "timestamp": 1030,
+        "description": null,
+        "owner": " orgadmin",
+        "state": "ACTIVE",
+        "hidden": false,
+        "parent": "efb7baa0-61ea-4e16-9e30-429ba6151f6e",
+        "tenant": "restart-aggregation-test01",
+        "createdBy": " orgadmin",
+        "orderIndex": 0
+      }
+    }
+  }
 ]
