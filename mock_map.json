@@ -28,6 +28,9 @@
 	"/catalog-item/*": "./response/ci-detail.json",
 	"/catalog-items": "./response/catalog-items.json",
 	"/categories": "./response/catalog.categories.json",
+	"/catalogs": "./response/catalog.catalogs.json",
+	"/publish": "./response/catalog.publish.json",
+	"/catalog-items-pub": "./response/catalog-items-pub.json",
 
 	"/category-batch/*": "./response/category-batch.json",	
 	"/category-batch": "./response/category-batch.json"
