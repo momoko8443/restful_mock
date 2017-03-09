@@ -1,47 +1,98 @@
 [
 	{
-		"id": "001",
-		"name": "ci_1",
-		"description": "xxxxxx",
-		"categories": [
-			{
-				"id":"001",
-				"name":"category_1"
-			},
-			{
-				"id":"002",
-				"name":"category_2"
-			}
-		]
+	"guid": "07d1fc32-f59d-4fcf-b256-32f9c4c42afe",
+	"catalog":"07d1fc32-f59d-4fcf-b256-32f9c4c42afe",
+	    "jdoc": {
+	       "summary": {
+	        "guid": "a799d393-89bc-4747-9f44-9d2760f0de74",
+	        "icon": {
+	            "guid": "45750051-440d-4056-a6d2-55d4931570d1",
+	            "size": 3381,
+	            "created": 1488786828644,
+	            "fileName": "generalfile",
+	            "modified": 1488786828644,
+	            "createdBy": "sxCatalogTransportUser",
+	            "mediaType": "image/png",
+	            "timestamp": 67,
+	            "fileChecksum": "91493d8faec869c4e5387a7d17f9a6fe"
+	        },
+	        "name": {
+	            "en": "Microsoft® Hyper-V SUSE® Linux Enterprise Virtual Machine1",
+	            "$type": "l10nString"
+	        },
+	        "type": "CATALOG_ITEM",
+	        "owner": "sxCatalogTransportUser",
+	        "state": "RETIRED",
+	        "itemId": "hyperVVirtualMachineSuse",
+	        "tenant": "adapter-test",
+	        "created": 1488786828683,
+	        "modified": 1488787095910,
+	        "template": true,
+	        "createdBy": "sxCatalogTransportUser",
+	        "showPrice": true,
+	        "timestamp": 208,
+	        "categories": [
+	            "c9307cf8-5ffd-49ef-92c0-1f3ec3d22c69"
+	        ],
+	        "extensions": {
+	            "sxProviderId": "a6194ce0-mpc--74a1-442b-99b3-8a02c3ac970d",
+	            "sxProviderType": "MPC",
+	            "sxRemoteOfferingId": "hyperVVirtualMachineSuse"
+	        },
+	        "popularity": 0,
+	        "description": {
+	            "en": "Enterprise Grade Microsoft® Hyper-V Virtual Machines from HPE",
+	            "$type": "l10nString"
+	        }
+	      }
+	    }
 	},
 	{
-		"id": "002",
-		"name": "ci_2",
-		"description": "xxxxxx",
-		"categories": [
-			{
-				"id":"001",
-				"name":"category_1"
-			},
-			{
-				"id":"002",
-				"name":"category_2"
-			}
-		]
-	},
-	{
-		"id": "003",
-		"name": "ci_3",
-		"description": "xxxxxx",
-		"categories": [
-			{
-				"id":"001",
-				"name":"category_1"
-			},
-			{
-				"id":"002",
-				"name":"category_2"
-			}
-		]
+	"guid": "07d1fc32-f59d-4fcf-b256-32f9c4c42aff",
+	"catalog":"07d1fc32-f59d-4fcf-b256-32f9c4c42aff",
+	    "jdoc": {
+	       "summary": {
+	        "guid": "a799d393-89bc-4747-9f44-9d2760f0de74",
+	        "icon": {
+	            "guid": "45750051-440d-4056-a6d2-55d4931570d1",
+	            "size": 3381,
+	            "created": 1488786828644,
+	            "fileName": "generalfile",
+	            "modified": 1488786828644,
+	            "createdBy": "sxCatalogTransportUser",
+	            "mediaType": "image/png",
+	            "timestamp": 67,
+	            "fileChecksum": "91493d8faec869c4e5387a7d17f9a6fe"
+	        },
+	        "name": {
+	            "en": "Microsoft® Hyper-V SUSE® Linux Enterprise Virtual Machine2",
+	            "$type": "l10nString"
+	        },
+	        "type": "CATALOG_ITEM",
+	        "owner": "sxCatalogTransportUser",
+	        "state": "RETIRED",
+	        "itemId": "hyperVVirtualMachineSuse",
+	        "tenant": "adapter-test",
+	        "created": 1488786828683,
+	        "modified": 1488787095910,
+	        "template": true,
+	        "createdBy": "sxCatalogTransportUser",
+	        "showPrice": true,
+	        "timestamp": 208,
+	        "categories": [
+	            "c9307cf8-5ffd-49ef-92c0-1f3ec3d22c69"
+	        ],
+	        "extensions": {
+	            "sxProviderId": "a6194ce0-mpc--74a1-442b-99b3-8a02c3ac970d",
+	            "sxProviderType": "MPC",
+	            "sxRemoteOfferingId": "hyperVVirtualMachineSuse"
+	        },
+	        "popularity": 0,
+	        "description": {
+	            "en": "Enterprise Grade Microsoft® Hyper-V Virtual Machines from HPE",
+	            "$type": "l10nString"
+	        }
+	      }
+	    }
 	}
 ]
