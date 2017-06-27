@@ -1,0 +1,11 @@
+{
+	"id":"id_01",
+	"displayName":"displayName_01",
+	"address":"127.0.0.1",
+	"port":1027,
+	"account":{
+		"username":"test",
+		"password":"password"
+	},
+	"isDefault":true
+}	
