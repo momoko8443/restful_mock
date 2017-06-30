@@ -35,5 +35,7 @@
 	"/category-batch/*": "./response/category-batch.json",	
 	"/category-batch": "./response/category-batch.json",
 	"/organizations/*/smtp": "./response/smtp-list.json",
-	"/organizations/*/smtp/*": "./response/smtp-detail.json"
+	"/organizations/*/smtp/*": "./response/smtp-detail.json",
+	"/organizations/*/template-uploaded": "./response/template-uploaded.json",
+	"/organizations/*/template-uploaded/*": "./response/template-uploaded.json"
 }

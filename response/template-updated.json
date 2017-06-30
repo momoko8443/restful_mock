@@ -1,0 +1,14 @@
+[
+	{
+		"id":"testid_01",
+		"name":"template1.zip"
+	},
+	{
+		"id":"testid_02",
+		"name":"template2.zip"
+	},
+	{
+		"id":"testid_03",
+		"name":"template4.zip"
+	}
+]
